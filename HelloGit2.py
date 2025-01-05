@@ -1,1 +1,1 @@
-print("Archivo de prueba 2")
+print("Nueva versión")
